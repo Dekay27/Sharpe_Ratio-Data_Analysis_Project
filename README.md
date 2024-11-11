@@ -12,7 +12,7 @@ This project explores the Sharpe Ratio as a tool for assessing the risk-adjusted
 - [Conclusion and Investment Recommendation](#conclusion-and-investment-recommendation)
 - [References](#references)
 
-![Annualized Sharpe Ratio](annalized_sharpe_ratio.png)
+![Annualized Sharpe Ratio](https://github.com/Dekay27/Sharpe_Ratio-Data_Analysis_Project/blob/main/images/annalized_sharpe_ratio.png)
 
 ### Introduction to the Sharpe Ratio
 
