@@ -1,0 +1,16 @@
+To replicate this analysis, ensure you have the following Python libraries installed:
+    - numpy
+    - pandas
+    - matplotlib
+
+
+Install dependencies using:
+    pip install numpy
+    pip install pandas
+    pip install matplotlib
+
+
+To Run the Analysis
+    - Clone the repository.
+    - Open analysis.ipynb in Jupyter Notebook or JupyterLab.
+    - Run each cell sequentially to perform the analysis and see visualizations.
